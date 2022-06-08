@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/TKvd3WD.png" width="350" title="Nihonoari Logo">
+  <img src="doc/logo.png" width="350" title="Nihonoari Logo">
 </p>
 
 # Nihonoari App
@@ -31,11 +31,11 @@ To recognize the Kana syllabary without difficulty is a costly task. While there
 
 ## Author
 
-* **Aeri** - *Project Nihonoari* - [aeri](https://github.com/aeri)
+* **Fukumoto Riku** - *Project Nihonoari* - [luck18210](https://github.com/luck18210)
 
 ## Collaborators
 
-See the list of [contributors](https://github.com/aeri/Nihonoari-App/graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/graphs/contributors) who participated in this project.
 
 ## License
 

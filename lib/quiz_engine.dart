@@ -124,7 +124,7 @@ class QuizBrain {
                 }
 
                 if (re) {
-                  // https://github.com/aeri/Nihonoari-App/issues/33
+                  // https://github.com/luck18210/Nihonoari-Hiragana-Katakana/issues/33
                   // enable distinguishing `ji`
                   if (x == "じ") {
                     hiraganaQuestions.add("ぢ");
@@ -202,7 +202,7 @@ class QuizBrain {
               }
 
               if (re) {
-                // https://github.com/aeri/Nihonoari-App/issues/33
+                // https://github.com/luck18210/Nihonoari-Hiragana-Katakana/issues/33
                 // enable distinguishing `ji`
                 if (x == "ジ") {
                   katakanaQuestions.add("ヂ");
