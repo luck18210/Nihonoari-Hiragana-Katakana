@@ -31,7 +31,7 @@ To recognize the Kana syllabary without difficulty is a costly task. While there
 
 ## Author
 
-* **Fukumoto Riku** - *Project Nihonoari* - [luck18210](https://github.com/luck18210)
+* **Fukumoto riku** - *Project Nihonoari* - [luck18210](https://github.com/luck18210)
 
 ## Collaborators
 
