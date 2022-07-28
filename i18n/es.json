@@ -1,0 +1,22 @@
+{
+  "main_licenses": "LICENCIAS",
+  "main_hset": "Conjunto Hiragana",
+  "main_kset": "Conjunto Katakana",
+  "main_hiragana" : "Incluir silabario Hiragana",
+  "main_katakana" : "Incluir silabario Katakana",
+  "main_select": "Elige",
+  "main_start": "Iniciar",
+  "quiz_stats": "Estadísticas",
+  "quiz_total": "Total",
+  "quiz_passed": "Aciertos",
+  "quiz_failed": "Fallos",
+  "quiz_rate": "Tasa de acierto",
+  "quiz_enter": "Escribe rōmaji",
+  "quiz_correct": "Respuesta correcta",
+  "quiz_stoptit" : "Detener prueba",
+  "quiz_stopmes" : "¿Volver al menú principal?",
+  "main_rset" : "Inversa",
+  "main_reverse" : "Introduce Kana",
+  "quiz_enter_hira" : "Escribe hiragana",
+  "quiz_enter_kata" : "Escribe katakana"
+}
