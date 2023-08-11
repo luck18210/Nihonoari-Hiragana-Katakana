@@ -2,7 +2,7 @@
   <img src="doc/logo.png" width="350" title="Nihonoari Logo">
 </p>
 
-<p>
+<p display="flex">
   <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/76990ec7-0a1a-4901-acbe-07b4edd4bd00" width="350" title="screenshot">
   <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/15a3db82-bb29-41ca-90aa-766c661143b5" width="350" title="screenshot">
   <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/61675a35-4def-4748-9b9b-64af7dcd4f46" width="350" title="screenshot">
