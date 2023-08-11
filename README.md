@@ -3,10 +3,9 @@
 </p>
 
 <p>
-  <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/76990ec7-0a1a-4901-acbe-07b4edd4bd00" width="350" title="Nihonoari Logo">
-  ![Screenshot_20230811_140755](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/76990ec7-0a1a-4901-acbe-07b4edd4bd00)<br/>
-  ![Screenshot_20230811_140806](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/15a3db82-bb29-41ca-90aa-766c661143b5)<br/>
-  ![Screenshot_20230811_140841](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/61675a35-4def-4748-9b9b-64af7dcd4f46)<br/>
+  <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/76990ec7-0a1a-4901-acbe-07b4edd4bd00" width="350" title="screenshot">
+  <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/15a3db82-bb29-41ca-90aa-766c661143b5" width="350" title="screenshot">
+  <img src="https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/61675a35-4def-4748-9b9b-64af7dcd4f46" width="350" title="screenshot">
 </p>
 
 # Nihonoari App
