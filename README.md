@@ -2,6 +2,9 @@
   <img src="doc/logo.png" width="350" title="Nihonoari Logo">
 </p>
 
+<p>
+  ![Screenshot_20230811_140755](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/76990ec7-0a1a-4901-acbe-07b4edd4bd00)![Screenshot_20230811_140806](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/15a3db82-bb29-41ca-90aa-766c661143b5)![Screenshot_20230811_140841](https://github.com/luck18210/Nihonoari-Hiragana-Katakana/assets/88620254/61675a35-4def-4748-9b9b-64af7dcd4f46)
+</p>
 # Nihonoari App
 Nihonoari is a Flutter based project to provide the community with a simple app to memorize and practice the Hiragana and Katakana alphabets without adverts, in-app purchases and useless functions, simpler is better.
 
