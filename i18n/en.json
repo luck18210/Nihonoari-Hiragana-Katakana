@@ -1,0 +1,22 @@
+{
+  "main_licenses": "LICENSES",
+  "main_hset": "Hiragana set",
+  "main_kset": "Katakana set",
+  "main_hiragana" : "Include Hiragana syllabary",
+  "main_katakana" : "Include Katakana syllabary",
+  "main_select": "Select one",
+  "main_start": "Start",
+  "quiz_stats": "Statistics",
+  "quiz_total": "Total",
+  "quiz_passed": "Passed",
+  "quiz_failed": "Failed",
+  "quiz_rate": "Success rate",
+  "quiz_enter": "Input rōmaji",
+  "quiz_correct": "Correct answer",
+  "quiz_stoptit" : "Stop quiz",
+  "quiz_stopmes" : "Return to the main menu?",
+  "main_rset" : "Reverse",
+  "main_reverse" : "Enter Kana",
+  "quiz_enter_hira" : "Input hiragana",
+  "quiz_enter_kata" : "Input katakana"
+}
